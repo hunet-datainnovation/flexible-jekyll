@@ -13,6 +13,7 @@ layout: main
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+        <div class="page-author"><span>post by {{page.author}}</span></div>
       </header>
       {{page.content | markdownify}}
       <div class="page-footer">
@@ -27,7 +28,7 @@ layout: main
           {% endfor %}
         </div>
       </div>
-      {% include disqus.html %}
+    <!--  {% include disqus.html %}-->
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
