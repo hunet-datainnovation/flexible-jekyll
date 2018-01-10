@@ -13,12 +13,12 @@ author: Hunet-DataInnovation # add your name
 author-img: hunetlogo.png # add your photo
 about-author: 안녕하세요~ :)
 Hunet DataInnovation팀
-기술블로그입니다. # add description
+기술블로그입니다.   # add description
 #twitter: # add your Twitter handle
 #facebook: # add your Facebook handle
-github: "https://github.com/hunet-datainnovation/hunet-datainnovation.github.io" # add your Github handle
+github: "hunet-datainnovation/hunet-datainnovation.github.io" # add your Github handle
 linkedin: # add your Linkedin handle
-email: # add your Email address
+email: bunjun615@hunet.co.kr # add your Email address
 
 # Disqus 댓글부분
 #discus-identifier: mr-brown # add your discus identifier
