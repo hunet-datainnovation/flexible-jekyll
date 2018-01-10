@@ -11,8 +11,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Hunet-DataInnovation # add your name
 author-img: hunetlogo.png # add your photo
-about-author: "Welcome :) \n\n
-Hunet Data Innovation Team Technology blog."   # add description
+about-author: Welcome :) "\n\n"
+Hunet Data Innovation Team Technology blog.   # add description
 #twitter: # add your Twitter handle
 #facebook: # add your Facebook handle
 github: "hunet-datainnovation/hunet-datainnovation.github.io" # add your Github handle
